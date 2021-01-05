@@ -1,0 +1,4 @@
+﻿  ConsoleApplication10.cpp
+c:\users\simon\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(36): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\simon\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(49): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  ConsoleApplication10.vcxproj -> C:\Users\Simon\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe

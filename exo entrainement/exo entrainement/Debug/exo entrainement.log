@@ -1,0 +1,5 @@
+﻿  exo_entrainement.cpp
+c:\users\simon\source\repos\exo entrainement\exo entrainement\exo_entrainement.cpp(30): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
+  fonctions.cpp
+c:\users\simon\source\repos\exo entrainement\exo entrainement\fonctions.cpp(42): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
+  Génération de code en cours...

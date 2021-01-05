@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\simon\source\repos\exoexam1\exoexam1\source.cpp(19): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  fonctions.cpp
+  Génération de code en cours...
+  exoexam1.vcxproj -> C:\Users\Simon\source\repos\exoexam1\Debug\exoexam1.exe

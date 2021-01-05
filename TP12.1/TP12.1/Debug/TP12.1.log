@@ -1,0 +1,4 @@
+﻿  TP12.1.cpp
+c:\users\simon\source\repos\tp12.1\tp12.1\tp12.1.cpp(5): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+c:\users\simon\source\repos\tp12.1\tp12.1\tp12.1.cpp(28): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  TP12.1.vcxproj -> C:\Users\Simon\source\repos\TP12.1\Debug\TP12.1.exe

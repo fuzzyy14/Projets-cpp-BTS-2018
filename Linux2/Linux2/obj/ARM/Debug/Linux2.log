@@ -1,0 +1,20 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.43.17'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  Point.cpp
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(29,8): warning : statement has no effect [-Wunused-value]
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(29,8): warning :   this->x;
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(29,8): warning :   ~~~~~~^
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(30,8): warning : statement has no effect [-Wunused-value]
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(30,8): warning :   this->y;
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(30,8): warning :   ~~~~~~^
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(31,4): warning : statement has no effect [-Wunused-value]
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(31,4): warning :   b.x;
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(31,4): warning :   ~~^
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(32,4): warning : statement has no effect [-Wunused-value]
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(32,4): warning :   b.y;
+C:\Users\Simon\source\repos\Linux2\Linux2\Point.cpp(32,4): warning :   ~~^
+  Linking objects
+  Linux2.vcxproj -> C:\Users\Simon\source\repos\Linux2\Linux2\bin\ARM\Debug\Linux2.out

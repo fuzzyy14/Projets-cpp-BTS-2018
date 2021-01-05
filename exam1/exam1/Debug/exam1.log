@@ -1,0 +1,8 @@
+﻿  exam1.cpp
+c:\users\simon\source\repos\exam1\exam1\exam1.cpp(13): error C3861: 'demanderFloat' : identificateur introuvable
+c:\users\simon\source\repos\exam1\exam1\exam1.cpp(15): error C3861: 'demanderFloat' : identificateur introuvable
+c:\users\simon\source\repos\exam1\exam1\exam1.cpp(17): error C3861: 'demanderFloat' : identificateur introuvable
+c:\users\simon\source\repos\exam1\exam1\exam1.cpp(18): error C3861: 'calculDiscriminant' : identificateur introuvable
+  fonctions.cpp
+c:\users\simon\source\repos\exam1\exam1\fonctions.cpp(18): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
+  Génération de code en cours...

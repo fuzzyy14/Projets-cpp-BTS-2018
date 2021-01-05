@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Point.cpp
+D:\Projets BTS 1ère année\VisualStudio\TP20\TP20\Point.cpp(147,1): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
+  TP20.cpp
+D:\Projets BTS 1ère année\VisualStudio\TP20\TP20\TP20.cpp(83,1): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
+  Génération de code en cours...

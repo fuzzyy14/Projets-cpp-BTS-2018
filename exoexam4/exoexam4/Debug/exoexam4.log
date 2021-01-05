@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\simon\source\repos\exoexam4\exoexam4\source.cpp(11): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  fonctions.cpp
+  Génération de code en cours...
+  exoexam4.vcxproj -> C:\Users\Simon\source\repos\exoexam4\Debug\exoexam4.exe

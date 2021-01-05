@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/Linux1/bin/ARM/Debug/Linux1.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/Linux1/obj/ARM/Debug/main.o
